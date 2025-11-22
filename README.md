@@ -2,6 +2,7 @@
 <img src="GEorge vincent.png">
 
 A passionate   Full Stack Developer | Web Developer | Software Enginee & Web Designer focused on building modern, accessible and responsive user experiences.
+<br>
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](YOUR_WEBSITE_LINK)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Vincent-blue?logo=linkedin)](https://www.linkedin.com/in/george-vincent-a60a06330/)
