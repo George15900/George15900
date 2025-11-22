@@ -1,8 +1,5 @@
 # 👋 Hi, I'm George Vincent
 <img src="GEorge vincent.png">
-[![Website](https://img.shields.io/badge/website-your_site-blue)](YOUR_WEBSITE)
-[![LinkedIn](https://www.linkedin.com/in/george-vincent-a60a06330/)](George Vincent)
-[![GitHub followers](https://img.shields.io/github/followers/George15900?label=Follow&style=social)](https://github.com/YOUR_GITHUB)
 
 A passionate   Full Stack Developer | Web Developer | Software Enginee & Web Designer focused on building modern, accessible and responsive user experiences.
 
@@ -45,7 +42,6 @@ A website developed for customers to booking Groups Farmers for working the spec
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George15900)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=George15900&show_icons=true&theme=radical)
 
-![Contributions](https://ghchart.rshah.org/YOUR_GITHUB)
 
 ---
 
