@@ -1,14 +1,62 @@
-👋 Hi, I’m George Vincent
-🚀 Web Developer | BCA Student | Kerala, India
+👋 Hi, I'm Your Name
 
-🧠 About Me
-🎓 BCA Student passionate about building clean, responsive web experiences
-💡 Skilled in HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Java, Angular
-🚀 Working on multiple web development projects
-🛠️ Skills & Tools
-       
 
-🌐 Connect With Me
-Portfolio Website
-[Instagram](https://instagram.com/
-[LinkedIn](https://linkedin.com/
+
+
+🚀 About Me
+
+I'm a passionate Web Developer, Designer, and Tech Enthusiast who loves creating modern, clean, and user‑friendly web experiences.
+
+🌱 Currently learning: Full‑Stack Development, DevOps, AI Tools
+
+💼 Working on: Creative Web Projects & Open‑Source Contributions
+
+🎯 Goal: Becoming a top‑level developer and building beautiful digital products
+
+⚡ Fun Fact: I like exploring new tech every single day
+
+🛠️ Tech Stack
+Frontend
+Backend & Databases
+Tools & Platforms
+🎞️ GitHub Activity Animation
+
+
+
+
+
+
+
+
+
+
+📌 Featured Projects
+🔹 Project 1: Creative Studio Website
+
+A modern portfolio website built with animation and responsive UI.
+
+🔗 Live Demo: Add your link
+
+
+
+
+🔹 Project 2: Job Portal Website
+
+A dynamic job portal with role‑based login and admin dashboard.
+
+🔗 Repository: Add your link
+
+
+
+
+🧩 GitHub Contribution Graph
+
+
+
+
+📬 Connect with Me
+
+
+
+
+⭐ If you like my work, give it a star!
