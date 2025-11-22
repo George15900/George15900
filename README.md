@@ -67,7 +67,7 @@ Tip: To create a GIF from a Lottie or prototype:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George15900)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=George15900&show_icons=true&theme=radical)
 
-![Contributions](https://ghchart.rshah.org/YOUR_GITHUB)
+![Contributions](https://ghchart.rshah.org/George15900)
 
 ---
 
