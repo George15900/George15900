@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm George Vincent
 
 [![Website](https://img.shields.io/badge/website-your_site-blue)](YOUR_WEBSITE)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?logo=linkedin)](YOUR_LINKEDIN)
@@ -10,17 +10,15 @@ A passionate Web Developer & Designer focused on building modern, accessible and
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on creative web projects and open-source contributions.
-- 🌱 Learning: Full‑Stack Development, DevOps, and applied AI tools.
-- 🎯 Goal: Become a top‑level developer building beautiful digital products.
-- ⚡ Fun fact: I explore new tech every day.
+My technical skillset includes HTML, CSS, JavaScript, PHP, MySQL,Java, and I am currently learning Angular and Node.js to build advanced applications. 
+I aim to work in a dynamic environment where I can apply my knowledge, contribute to projects, and continue growing as a Full Stack Developer.
 
 ---
 
 ## 🛠️ Tech Stack
 | Frontend | Backend | DevOps & Tools |
 |---|---|---|
-| HTML • CSS • JavaScript • React • Next.js | Node.js • Express • MongoDB • PostgreSQL | Docker • Git • GitHub • CI/CD • Vercel |
+| HTML • CSS • JavaScript • Angulat  | Node.js • php • MySQL • JAVA | VsCode • Linux • GitHub  • Xampp |
 
 ---
 
@@ -66,8 +64,8 @@ Tip: To create a GIF from a Lottie or prototype:
 
 ## 📈 GitHub Stats & Contribution Graph
 <!-- replace with your username -->
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George15900)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=George15900&show_icons=true&theme=radical)
 
 ![Contributions](https://ghchart.rshah.org/YOUR_GITHUB)
 
@@ -80,5 +78,7 @@ Tip: To create a GIF from a Lottie or prototype:
 - Portfolio: https://YOUR_WEBSITE
 
 ---
+
+If you like my work, give it a star ⭐
 
 If you like my work, give it a star ⭐
