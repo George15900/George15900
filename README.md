@@ -44,6 +44,7 @@ A website developed for customers to booking Groups Farmers for working the spec
 ## 📈 GitHub Stats & Contribution Graph
 <!-- replace with your username -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George15900&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George15900&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=George15900&show_icons=true&theme=radical)
 
 
