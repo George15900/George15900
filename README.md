@@ -40,6 +40,30 @@ A dynamic job portal with role-based login and admin dashboard.
 
 ---
 
+## 🏆 Achievements
+- 🥇 Hackathon Winner — [HackName](YOUR_HACK_LINK) (2024)
+- 📜 Certified: AWS Cloud Practitioner (or your cert) — [Certificate](YOUR_CERT_LINK)
+- ⭐ Starred 50+ repos — [See stars](https://github.com/YOUR_GITHUB?tab=stars)
+- 🔁 100+ contributions last year — GitHub profile stat
+
+<!-- Optional small badges (replace YOUR_GITHUB/values) -->
+[![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)](YOUR_HACK_LINK)
+[![Cert](https://img.shields.io/badge/Certification-AWS-important)](YOUR_CERT_LINK)
+
+---
+
+## 🎞️ Live Animation
+A short live animation showing the UI/interaction. Replace the URL below with a GIF or an animated SVG hosted in this repo or an external CDN.
+
+<!-- Example using an image/GIF stored in your repo -->
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_REPO/main/animations/demo.gif" alt="Live demo animation" width="700"/>
+
+Tip: To create a GIF from a Lottie or prototype:
+- Export a Lottie animation to GIF at LottieFiles, or record a short screen capture and save as GIF.
+- Commit the GIF to your repo under /animations and update the src above.
+
+---
+
 ## 📈 GitHub Stats & Contribution Graph
 <!-- replace with your username -->
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=react)
@@ -58,4 +82,3 @@ A dynamic job portal with role-based login and admin dashboard.
 ---
 
 If you like my work, give it a star ⭐
-
