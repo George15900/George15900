@@ -1,5 +1,5 @@
 # 👋 Hi, I'm George Vincent
-<img src="GEorge vincent">
+<img src="GEorge vincent.png">
 [![Website](https://img.shields.io/badge/website-your_site-blue)](YOUR_WEBSITE)
 [![LinkedIn](https://www.linkedin.com/in/george-vincent-a60a06330/)](George Vincent)
 [![GitHub followers](https://img.shields.io/github/followers/George15900?label=Follow&style=social)](https://github.com/YOUR_GITHUB)
