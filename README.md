@@ -1,5 +1,5 @@
 # 👋 Hi, I'm George Vincent
-
+<img src="GEorge vincent">
 [![Website](https://img.shields.io/badge/website-your_site-blue)](YOUR_WEBSITE)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?logo=linkedin)](YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?logo=twitter)](YOUR_TWITTER)
@@ -67,7 +67,7 @@ Tip: To create a GIF from a Lottie or prototype:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=George15900)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=George15900&show_icons=true&theme=radical)
 
-![Contributions](https://ghchart.rshah.org/George15900)
+![Contributions](https://ghchart.rshah.org/YOUR_GITHUB)
 
 ---
 
@@ -78,7 +78,3 @@ Tip: To create a GIF from a Lottie or prototype:
 - Portfolio: https://YOUR_WEBSITE
 
 ---
-
-If you like my work, give it a star ⭐
-
-If you like my work, give it a star ⭐
