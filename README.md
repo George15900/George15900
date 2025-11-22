@@ -1,11 +1,10 @@
 # 👋 Hi, I'm George Vincent
 <img src="GEorge vincent">
 [![Website](https://img.shields.io/badge/website-your_site-blue)](YOUR_WEBSITE)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?logo=linkedin)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?logo=twitter)](YOUR_TWITTER)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB?label=Follow&style=social)](https://github.com/YOUR_GITHUB)
+[![LinkedIn](https://www.linkedin.com/in/george-vincent-a60a06330/)](George Vincent)
+[![GitHub followers](https://img.shields.io/github/followers/George15900?label=Follow&style=social)](https://github.com/YOUR_GITHUB)
 
-A passionate Web Developer & Designer focused on building modern, accessible and responsive user experiences.
+A passionate   Full Stack Developer | Web Developer | Software Enginee & Web Designer focused on building modern, accessible and responsive user experiences.
 
 ---
 
@@ -24,43 +23,22 @@ I aim to work in a dynamic environment where I can apply my knowledge, contribut
 
 ## 📌 Featured Projects
 
-### 🔹 Creative Studio Website
-A modern portfolio with animations and a responsive UI.  
-- Tech: React, CSS animations, responsive design  
-- Live: [Demo](YOUR_PROJECT1_LIVE) • Repo: [Source](YOUR_PROJECT1_REPO)
+### 🔹  Studio Website
+A website developed for customers to get details or information about the studio and see the sample works of the studio.
+- Tech: MYSQL, PHP, CSS, JavaScript and HTML.  
 
-### 🔹 Job Portal Website
-A dynamic job portal with role-based login and admin dashboard.  
-- Tech: Node.js, Express, PostgreSQL, JWT authentication  
-- Live: [Demo](YOUR_PROJECT2_LIVE) • Repo: [Source](YOUR_PROJECT2_REPO)
 
-> Tip: Replace demo/repo placeholders with your real links for better visibility.
+### 🔹 College Admission
+A website developed for students for applying course and get details or information about the college. 
+- Tech: PHP, MYSQL, CSS, JavaScript and HTML. 
 
----
+### 🔹 Agro Assist
+A website developed for customers to booking Groups Farmers for working the specified land for the customers.
+- Tech: PHP, MYSQL, CSS, JavaScript and HTML. 
 
-## 🏆 Achievements
-- 🥇 Hackathon Winner — [HackName](YOUR_HACK_LINK) (2024)
-- 📜 Certified: AWS Cloud Practitioner (or your cert) — [Certificate](YOUR_CERT_LINK)
-- ⭐ Starred 50+ repos — [See stars](https://github.com/YOUR_GITHUB?tab=stars)
-- 🔁 100+ contributions last year — GitHub profile stat
-
-<!-- Optional small badges (replace YOUR_GITHUB/values) -->
-[![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)](YOUR_HACK_LINK)
-[![Cert](https://img.shields.io/badge/Certification-AWS-important)](YOUR_CERT_LINK)
 
 ---
 
-## 🎞️ Live Animation
-A short live animation showing the UI/interaction. Replace the URL below with a GIF or an animated SVG hosted in this repo or an external CDN.
-
-<!-- Example using an image/GIF stored in your repo -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_REPO/main/animations/demo.gif" alt="Live demo animation" width="700"/>
-
-Tip: To create a GIF from a Lottie or prototype:
-- Export a Lottie animation to GIF at LottieFiles, or record a short screen capture and save as GIF.
-- Commit the GIF to your repo under /animations and update the src above.
-
----
 
 ## 📈 GitHub Stats & Contribution Graph
 <!-- replace with your username -->
@@ -72,9 +50,9 @@ Tip: To create a GIF from a Lottie or prototype:
 ---
 
 ## 📬 Connect with Me
-- Email: youremail@example.com
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- Twitter: https://twitter.com/YOUR_TWITTER
+- Email: georgevincen15@gmail.com
+- LinkedIn:https://www.linkedin.com/in/george-vincent-a60a06330/
 - Portfolio: https://YOUR_WEBSITE
 
 ---
+
