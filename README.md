@@ -43,7 +43,7 @@ A website developed for customers to booking Groups Farmers for working the spec
 
 ## 📈 GitHub Stats & Contribution Graph
 <!-- replace with your username -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=George15900&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=George15900&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George15900&show_icons=true)
 
 
