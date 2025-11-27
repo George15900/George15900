@@ -3,7 +3,7 @@
 
 A passionate   Full Stack Developer | Web Developer | Software Enginee & Web Designer focused on building modern, accessible and responsive user experiences.
 <br>
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://me-eta-five.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)]([https://me-eta-five.vercel.app/](https://george15900.github.io/George/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Vincent-blue?logo=linkedin)](https://www.linkedin.com/in/george-vincent-a60a06330/)
 [![GitHub followers](https://img.shields.io/github/followers/George15900?label=Follow&style=social)](https://github.com/George15900)
 
@@ -53,7 +53,7 @@ A website developed for customers to booking Groups Farmers for working the spec
 ## 📬 Connect with Me
 - Email: georgevincen15@gmail.com
 - LinkedIn:https://www.linkedin.com/in/george-vincent-a60a06330/
-- Portfolio: https://YOUR_WEBSITE
-
+- Portfolio: [https://YOUR_WEBSITE
+](https://george15900.github.io/George/)
 ---
 
